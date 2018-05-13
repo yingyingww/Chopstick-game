@@ -34,4 +34,4 @@ Current our program is in great shape.  We could no longer find bugs.  The butto
 * **Chae Kim** 
 
 
-![alt text](cover.png "cover")
+![alt text](Cover.png "cover")
