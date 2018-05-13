@@ -33,5 +33,8 @@ Current our program is in great shape.  We could no longer find bugs.  The butto
 * **Yingying Wang** 
 * **Chae Kim** 
 
-
-![alt text](Cover.png "cover")
+## Screenshots of the game
+![alt text](screenshots/Cover.png "cover")
+![alt text](screenshots/Instructions.png "instructions")
+![alt text](screenshots/game.png "game process")
+![alt text](screenshots/Win-message.png "yay you win")
