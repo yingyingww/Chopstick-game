@@ -2,6 +2,7 @@
 Intro to Computer Science final project. Winter • 2017. 
 
 ## Run this game
+* python3 chopsticks.py 
 To run the program, change domain into the folder with all the pictures and the graphics module present.  Then, call chopsticks.py through command prompt.  Click through the instructions to start the game.  Click the buttons to make your moves.  Follow the rules and see if you are the chopsticks master!!  You may also reference the command line to track the history of the game.
 
 ## Game rules
@@ -31,3 +32,6 @@ Current our program is in great shape.  We could no longer find bugs.  The butto
 ## Author: 
 * **Yingying Wang** 
 * **Chae Kim** 
+
+
+![alt text](cover.png "cover")
