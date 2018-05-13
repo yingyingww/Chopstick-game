@@ -7,10 +7,10 @@ The program, as of now, provides buttons for the players to click on to choose t
 Our program is made up of 3 classes Ð one class(hand) creates instances of different pairs of hands, i.e. one instance will give one player; the second class(game_g) is responsible for the graphics used in the game, which for now is just creating, recognizing, and deleting buttons at the appropriate time; and lastly the 3rd class (A_chopsticks) actually plays the game, as in it has the function responsible for our computer intelligence and a play function that puts most of the rules of the game in place.  Our main function basically creates two instances of hand, p1 for human player and p2 for computer.  It calls our graphics class and starts the game!
 
 Current our program is in great shape.  We could no longer find bugs.  The buttons all get recognized, the information printed on both the command line and the windows are correct.  The switch function does not allow for cheating.  Everything should be working fine
-#how to run the game
+# how to run the game
 To run the program, change domain into the folder with all the pictures and the graphics module present.  Then, call chopsticks.py through command prompt.  Click through the instructions to start the game.  Click the buttons to make your moves.  Follow the rules and see if you are the chopsticks master!!  You may also reference the command line to track the history of the game.
 
-#Computer rules: 
+# Computer rules: 
 *Always interprets the right hand first*
 * First choice: of action is to divide up the fingers if one of the hands have been declared ÒoutÓ
 * This is for survival!!
