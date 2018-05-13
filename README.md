@@ -29,5 +29,5 @@ Current our program is in great shape.  We could no longer find bugs.  The butto
 
 
 ## Author: 
-* **Yingying Wang** - [yingyingww](https://github.com/yingyingww)
+* **Yingying Wang** 
 * **Chae Kim** 
