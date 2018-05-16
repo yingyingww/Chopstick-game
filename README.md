@@ -33,6 +33,8 @@ Current our program is in great shape.  We could no longer find bugs.  The butto
 * Cannot attack another personÕs zero, and cannot attack with a hand of zero.
 * It is possible for one to get their own two hands out of the game through reckless switching
 
+## Library:
+graphics.py: This is open-source software released under the terms of the GPL (http://www.gnu.org/licenses/gpl.html).
 
 ## Author: 
 * **Yingying Wang** 
