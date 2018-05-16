@@ -4,7 +4,11 @@ Intro to Computer Science final project. Winter • 2017.
 ## Run this game
 
 To run the program, please clone this repository and change domain into the folder with all the pictures and the graphics module present.  Then, call chopsticks.py through command prompt $python3 chopsticks.py. 
-
+```
+$ git clone https://github.com/yingyingww/Chopstick-game.git
+$ cd Chopstick-game
+$ python3 chopsticks.py
+```
 Click through the instructions to start the game.  
 Click the buttons to make your moves.  
 Follow the rules and see if you are the chopsticks master!!  
